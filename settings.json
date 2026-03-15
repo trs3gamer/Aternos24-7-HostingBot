@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "crackedmest.aternos.me",
+    "port": 18715,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
@@ -78,8 +77,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1482689931833774121/z29jeE3-VnzkyKn1NVFe5ULicY1blEnr8fCf6QAJ-DNVstpSQ_g9RNXq-sJbgWrr9McY",
     "events": {
       "connect": true,
       "disconnect": true,
